@@ -1,0 +1,14 @@
+h1 {
+	font-size: 15rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: black;
+}
+.letter {
+	transition: color 500ms;
+}
